@@ -51,3 +51,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 CubixShooter_Unity2017.4.30f/Temp/UnityLockfile
+CubixShooter_Unity2017.4.30f/Library/EditorInstance.json
+*.bakert
