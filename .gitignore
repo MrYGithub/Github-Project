@@ -2,13 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/Library/
-/Temp/
-/Obj/
-/Build/
-/Builds/
-/Logs/
-/UserSettings/
+/CubixShooter_Unity2017.4.30f/Library/
+/CubixShooter_Unity2017.4.30f/Temp/
+/CubixShooter_Unity2017.4.30f/Obj/
+/CubixShooter_Unity2017.4.30f/Build/
+/CubixShooter_Unity2017.4.30f/Builds/
+/CubixShooter_Unity2017.4.30f/Logs/
+/CubixShooter_Unity2017.4.30f/_PCBuild/
+/CubixShooter_Unity2017.4.30f/UserSettings/
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
